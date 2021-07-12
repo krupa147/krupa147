@@ -31,7 +31,7 @@ domains.
 
 ## Reach out to me
 
-[Email](krupasutar147@gmail.com) | [LinkedIn](https://www.linkedin.com/in/krupa-suthar-317799112/) | [StackOverFlow](https://stackoverflow.com/users/7438993/krupa-suthar) | [Twitter](https://twitter.com/krupasuthar147) | [Medium](https://medium.com/@krupasuthar147)
+[Email](mailto:krupasutar147@gmail.com) | [LinkedIn](https://www.linkedin.com/in/krupa-suthar-317799112/) | [StackOverFlow](https://stackoverflow.com/users/7438993/krupa-suthar) | [Twitter](https://twitter.com/krupasuthar147) | [Medium](https://medium.com/@krupasuthar147)
 
 
 
