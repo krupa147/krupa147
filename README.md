@@ -5,7 +5,7 @@ I'm Krupa - Senior Backend Developer from India.
 
 I’m currently working as a Backend Software Engineer where I focus on
 API(REST and Graphql) and web app development. I have a total work
-experience of over 5 years and have worked on projects in different
+experience of over 7 years and have worked on projects in different
 domains.
 
 ## Tech stack
